@@ -46,7 +46,7 @@
   "dependencies": {
     "@tapjs/processinfo": "^1.0.4",
     "async-hook-domain": "^3.0.2",
-    "function-loop": "^3.0.0",
+    "function-loop": "^3.0.1",
     "minipass": "^4.2.5",
     "tap-parser": "^12.0.1",
     "tcompare": "^6.0.0",
